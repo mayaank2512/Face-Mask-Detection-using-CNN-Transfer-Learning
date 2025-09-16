@@ -1,0 +1,10 @@
+Face-Mask-Detection/
+│── data/                  # dataset (mask / no_mask images)
+│── models/                # saved trained models
+│── notebooks/             # Jupyter notebooks for EDA + training
+│── src/                   # python scripts
+│   ├── train.py           # model training script
+│   ├── detect_mask.py     # real-time detection using webcam
+│   └── utils.py           # helper functions
+│── requirements.txt       # dependencies
+│── README.md              # project documentation
